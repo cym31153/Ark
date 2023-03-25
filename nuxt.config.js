@@ -12,7 +12,7 @@ export default {
 
   //  https://go.nuxtjs.dev/config-head
   head: {
-    title: '伊比利亚审判庭',
+    title: 'Corn的伊比利亚审判庭',
     meta: [
       { charset: 'utf-8' },
       {
